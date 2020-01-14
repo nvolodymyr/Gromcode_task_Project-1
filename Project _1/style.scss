@@ -12,7 +12,7 @@ body {
     background-color: $body-color;
 }
 
-.price-table {
+.price-tables {
     display: flex;
     justify-content: space-around;
     height: 788px;
@@ -43,7 +43,7 @@ body {
         font-style: normal;
         font-weight: bold;
     }
-    &__title-subtitles {
+    &__title-subtitle {
         font-weight: 400;
         margin: 0;
     }

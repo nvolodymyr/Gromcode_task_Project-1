@@ -9,7 +9,7 @@ body {
   align-items: center;
   background-color: black; }
 
-.price-table {
+.price-tables {
   display: flex;
   justify-content: space-around;
   height: 788px;
@@ -37,7 +37,7 @@ body {
     margin: 0;
     font-style: normal;
     font-weight: bold; }
-  .price-card__title-subtitles {
+  .price-card__title-subtitle {
     font-weight: 400;
     margin: 0; }
   .price-card__price {
