@@ -19,7 +19,7 @@ body {
     width: 1170px;
     margin: 0;
     padding: 0;
-    padding-top: 18px;
+    // padding-top: 18px;
 }
 
 .price-card {
@@ -44,8 +44,9 @@ body {
         font-weight: bold;
     }
     &__title-subtitle {
-        font-weight: 400;
         margin: 0;
+        font-weight: 400px;
+        font-size: 22px;
     }
     &__price {
         display: flex;
@@ -141,6 +142,8 @@ body {
 }
 
 .business {
+    margin-left: 15px;
+    margin-right: 15px;
     .money-color,
     .btn-color {
         background-color: $business-blue;

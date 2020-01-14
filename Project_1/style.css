@@ -18,7 +18,6 @@ body {
   width: 1170px;
   margin: 0;
   padding: 0;
-  padding-top: 18px;
 }
 
 .price-card {
@@ -44,8 +43,9 @@ body {
   font-weight: bold;
 }
 .price-card__title-subtitle {
-  font-weight: 400;
   margin: 0;
+  font-weight: 400px;
+  font-size: 22px;
 }
 .price-card__price {
   display: flex;
@@ -136,6 +136,10 @@ body {
   background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_green.png);
 }
 
+.business {
+  margin-left: 15px;
+  margin-right: 15px;
+}
 .business .money-color,
 .business .btn-color {
   background-color: #3A6BA5;
