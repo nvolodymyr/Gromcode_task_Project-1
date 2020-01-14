@@ -18,6 +18,7 @@ body {
   width: 1170px;
   margin: 0;
   padding: 0;
+  padding-top: 36px;
 }
 
 .price-card {
@@ -75,6 +76,7 @@ body {
   width: 327px;
   margin-bottom: 42px;
   height: 36px;
+  padding-right: 1px;
 }
 .price-card__options-list {
   width: 380px;
